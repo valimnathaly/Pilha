@@ -8,7 +8,7 @@ O código se encontra no arquivo [main](https://github.com/valimnathaly/Pilha/bl
 
 # Algoritmo 
 ## Antes de iniciar o código, foi feito um algoritmo simples para definir a lógica necessária para o empihamento
-
+```
 definir o tamanho da pilha globalmente (MAX_ITENS)
 definir a pilha globalmente
 definir a variável de topo iniciando em -1 globalmente
@@ -61,3 +61,4 @@ algoritmo principal:
                 escreva "Fechando o Sistema"
         FIM ESCOLHA
     ENQUANTO menu for diferente de 3
+```
