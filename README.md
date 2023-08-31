@@ -1,4 +1,4 @@
-## Empilhamento em C++ (Stack)
+# Empilhamento em C++ (Stack)
 
 Um pequeno código simulando uma pilha em C++ para a disciplina de Gestão de Sistemas Operacionais.
 
@@ -6,8 +6,8 @@ O sistema de pilha foi feito de forma LIFO (Last In First Out) em que, como o no
 
 O código se encontra no arquivo [main](https://github.com/valimnathaly/Pilha/blob/main/main/main.cpp), sendo uma pequena aplicação de console.
 
-## Algoritmo 
-# Antes de iniciar o código, foi feito um algoritmo simples para definir a lógica necessária para o empihamento
+# Algoritmo 
+## Antes de iniciar o código, foi feito um algoritmo simples para definir a lógica necessária para o empihamento
 
 definir o tamanho da pilha globalmente (MAX_ITENS)
 definir a pilha globalmente
